@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class Main extends Kombinatoryka {
+public class Main {
     public static void main(String[] args) {
         Scanner menu = new Scanner(System.in);
         System.out.println("Wybierz kalkulator do uruchomienia: "); //Wybieranie z 3 opcji.
